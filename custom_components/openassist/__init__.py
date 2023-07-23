@@ -69,8 +69,6 @@ def post_request_pinecone(url, headers, json_payload):
     else:
         return None
 
-
-
 async def async_setup(hass: HomeAssistant, config: dict):
     """Set up the OpenAI Assistant component."""
     _LOGGER.debug("Setting up OpenAssist")

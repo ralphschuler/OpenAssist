@@ -160,3 +160,7 @@ OpenAI API Key
 3.  Create a new secret key, and take note of the API Key.
 
 ![enter image description here](https://github.com/Hassassistant/OpenAssist/blob/main/misc/openai.PNG?raw=true)
+
+## TODO
+- [ ] Refactor as Conversation Agent
+- [ ] Support multiple Languages (modify prompt)
